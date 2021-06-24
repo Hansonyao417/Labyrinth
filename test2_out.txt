@@ -1,0 +1,12 @@
+
+Here is the 4 X 7 labyrinth; 
+% % % % % % % % % 
+% 0 0 0 0 1 1 1 % 
+% 1 1 1 0 1 1 1 % 
+% 0 0 0 0 1 1 1 % 
+% 0 0 0 0 0 0 0 % 
+% % % % % % % % % 
+
+Does the path exist? 
+Yes!
+
